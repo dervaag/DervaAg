@@ -5,10 +5,10 @@
 </h1>
 
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/krishna-hendra-wijaya-80b713184/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> 
+  <a href="https://www.linkedin.com/in/dervaag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> 
     LinkedIn
   </a>
-  <a href="https://www.instagram.com/krisnahendra_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> 
+  <a href="https://www.instagram.com/dervaag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> 
     Instagram
   </a>
 </h5>
