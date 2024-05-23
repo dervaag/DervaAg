@@ -3,10 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Derva+;Welcome+to+my+github!&center=true&size=30">
   </a>
 </h1>
-
 <br>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=erlanig&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
+<br>
 <p align="center">
   Hi, I'm Derva Anargya Ghaly, Tech Entusiast.
   <br>
@@ -17,7 +16,7 @@
   <br>
   <br>
   <!-- ❔ Ask me anything about from <a href="https://github.com/dervaag/dervaag/issues" title="Issues">Here</a> -->
-  📨 How to reach me : 
+  How to reach me : 
 </p>
   <h5 align="center">
   <a href="https://www.linkedin.com/in/dervaag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> 
