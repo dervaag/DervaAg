@@ -28,11 +28,10 @@
 </p>
 
 <hr>
-<h2 align="center">⚙️ Languages & Frameworks & Tools & Abilities 🔩</h2>
+<h2 align="center">⚙️ Languages | Frameworks | Tools 🔩</h2>
 <br>
 <p align="center">
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
