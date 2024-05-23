@@ -29,7 +29,7 @@
 </h5>
 
 <hr>
-<h2 align="center">⚙️ Languages | Frameworks | Tools 🔩</h2>
+<p align="center">⚙️ Languages | Frameworks | Tools 🔩</p>
 <br>
 <p align="center">
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -60,7 +60,7 @@
 </p>
 <hr>
 
-<h2 align="center"> 📊 Github Stats 📊</h2>
+<p align="center"> 📊 Github Stats 📊</p>
 <br>
 
 <p align=center>
