@@ -83,7 +83,7 @@
   </div>
 </p>
 
-<!-- <h2 align="center">👨‍💻 My Repository 👨‍💻</h2> -->
+<!-- <h2 align="center">👨‍💻 My Repository 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/KrishnaHendra/restaurant-app" title="restaurant-app">
@@ -115,6 +115,7 @@
 <h4 align="center">
   <a href="https://github.com/KrishnaHendra?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+-->
 
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
