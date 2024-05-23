@@ -32,6 +32,7 @@
 <p align="center">⚙️ Languages | Frameworks | Tools 🔩</p>
 <br>
 <p align="center">
+  <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
@@ -61,8 +62,6 @@
 <hr>
 
 <p align="center"> 📊 Github Stats 📊</p>
-<br>
-
 <p align=center>
   <div align=center>
     <a href="https://github.com/dervaag" title="Go to Source">
@@ -83,3 +82,57 @@
     </a>
   </div>
 </p>
+
+<!-- <h2 align="center">👨‍💻 My Repository 👨‍💻</h2> -->
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/KrishnaHendra/restaurant-app" title="restaurant-app">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaHendra&repo=restaurant-app&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/KrishnaHendra/klinik-renceng-mose" title="Klinik Renceng Mose">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaHendra&repo=klinik-renceng-mose&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/KrishnaHendra/covid-info" title="Covid Info">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaHendra&repo=covid-info&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/KrishnaHendra/sejayacorp" title="Sejayacorp">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaHendra&repo=sejayacorp&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/KrishnaHendra/pos" title="Point of Sales">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaHendra&repo=pos&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/KrishnaHendra/fruit-store" title="Fruit Store">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaHendra&repo=fruit-store&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<h4 align="center">
+  <a href="https://github.com/KrishnaHendra?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+<!--
+**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
+
+![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+
+-->
