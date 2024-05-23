@@ -1,9 +1,9 @@
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Derva+;Welcome+to+my+github!&center=true&size=30">
   </a>
-</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=erlanig&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
+</p>
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka" /> </p>
 <p align="center">
   Hi, I'm Derva Anargya Ghaly, Tech Entusiast.
   <br>
