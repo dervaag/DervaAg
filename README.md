@@ -4,15 +4,9 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <a href="https://www.linkedin.com/in/dervaag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> 
-    LinkedIn
-  </a>
-  <a href="https://www.instagram.com/dervaag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> 
-    Instagram
-  </a>
-</h5>
 <br>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
 <p align="center">
   Hi, I'm Derva Anargya Ghaly, Tech Entusiast.
   <br>
@@ -22,10 +16,20 @@
   💻 Enthusiastic about programming and software development. The "Google Searcher" and "Copy Paster" 🚀.
   <br>
   <br>
-  ❔ Ask me anything about from <a href="https://github.com/dervaag/dervaag/issues" title="Issues">Here</a>
-  <br>
-  📨 How to reach me : <a href="mailto: dervaag@gmail.com">dervaag@gmail.com</a>
+  <!-- ❔ Ask me anything about from <a href="https://github.com/dervaag/dervaag/issues" title="Issues">Here</a> -->
+  📨 How to reach me : 
 </p>
+  <h5 align="center">
+  <a href="https://www.linkedin.com/in/dervaag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> 
+    LinkedIn
+  </a>
+  <a href="https://www.instagram.com/dervaag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> 
+    Instagram
+  </a>
+  <a href="mailto: dervaag@gmail.com" title="Email Account"><img width="22" src="images/gmail.png"> 
+    Email
+  </a>
+</h5>
 
 <hr>
 <h2 align="center">⚙️ Languages | Frameworks | Tools 🔩</h2>
@@ -46,11 +50,23 @@
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="Prisma" height="25" src="images/prisma.png"></code>
+  <code><img title="Android Studio" height="25" src="images/androidstudio.png"></code>
+  <code><img title="Bootstrap" height="25" src="images/bootstrap.svg"></code>
+  <code><img title="Express" height="25" src="images/express.png"></code>
+  <code><img title="Laravel" height="25" src="images/laravel.png"></code>
+  <code><img title="Dart" height="25" src="images/dart.png"></code>
+  <code><img title="Flutter" height="25" src="images/flutter.png"></code>
+  <code><img title="Tailwind" height="25" src="images/tailwind.png"></code>
+  <code><img title="Kotlin" height="25" src="images/kotlin.png"></code>
 </p>
 <hr>
 
-<h2 align="center"> 📉 Stats 📊 </h2>
+<h2 align="center"> 📊 Github Stats 📊</h2>
 <br>
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/dervaag" title="Go to Source">
