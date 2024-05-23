@@ -3,9 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Derva+;Welcome+to+my+github!&center=true&size=30">
   </a>
 </h1>
-<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erlanig&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
-<br>
 <p align="center">
   Hi, I'm Derva Anargya Ghaly, Tech Entusiast.
   <br>
