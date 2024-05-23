@@ -56,11 +56,13 @@
     <a href="https://github.com/dervaag" title="Go to Source">
       <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dervaagg&theme=react&border=61dafb&hide_border=true" alt="dervaagg" />
     </a>
+    <!--
     <br>
     <br>
     <a href="https://github.com/dervaag" title="Go to Source">
       <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=dervaagg&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
+    -->
   </div>
   <br>
   <div align=center>
