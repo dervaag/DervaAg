@@ -8,9 +8,9 @@
   Hi, I'm Derva Anargya Ghaly, Tech Entusiast.
   <br>
   <br>
-  📁 Feel free to explore my repositories. Let's navigate the digital world together with the spirit of "Ctrl+C" and "Ctrl+V"!.
+  📁 Feel free to explore my repositories. Let's navigate the digital world together with the spirit of "Ctrl+C" and "Ctrl+V"! 🚀.
   <br>
-  💻 Enthusiastic about programming and software development. The "Google Searcher" and "Copy Paster" 🚀.
+  💻 Enthusiastic about programming and software development.
   <br>
   <br>
   <!-- ❔ Ask me anything about from <a href="https://github.com/dervaag/dervaag/issues" title="Issues">Here</a> -->
