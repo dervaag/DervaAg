@@ -72,6 +72,6 @@
 
 <p align="center">
 <!-- <img width="390" src="https://github-readme-stats.vercel.app/api?username=dervaag&show_icons=true&theme=react&hide_border=true&border_color=61dafb" alt="GitHub Stats" /> -->
-  <br><br>
+  <br>
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dervaag&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Langs" />
 </p>
