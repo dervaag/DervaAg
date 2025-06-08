@@ -1,17 +1,32 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Folks!+👋;I'm+Derva;Welcome+to+My+Github!&center=true&size=30">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Folks!+👋;I'm+Derva+;Welcome+to+My+Github!&center=true&size=30">
+  </a>
 </h1>
-
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka" /> </p>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dervaag.dervaag" alt="visitor badge"/>
+  Hi, I'm Derva Anargya Ghaly, Tech Entusiast.
+  <br>
+  <br>
+  📁 Feel free to explore my repositories. Let's navigate the digital world together with the spirit of "Ctrl+C" and "Ctrl+V"! 🚀.
+  <br>
+  💻 Enthusiastic about programming and software development.
+  <br>
+  <br>
+  <!-- ❔ Ask me anything about from <a href="https://github.com/dervaag/dervaag/issues" title="Issues">Here</a> -->
+  How to reach me : 
 </p>
-
-<p align="center">
-  Hi, I'm Derva Anargya Ghaly, Tech Enthusiast.<br><br>
-  📁 Feel free to explore my repositories. Let's navigate the digital world together with the spirit of "Ctrl+C" and "Ctrl+V"! 🚀<br>
-  💻 Enthusiastic about programming and software development.<br><br>
-  How to reach me:
-</p>
+  <h5 align="center">
+  <a href="https://www.linkedin.com/in/dervaag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> 
+    LinkedIn
+  </a>
+  <a href="https://www.instagram.com/dervaag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> 
+    Instagram
+  </a>
+  <a href="mailto: dervaag@gmail.com" title="Email Account"><img width="22" src="images/gmail.png"> 
+    Email
+  </a>
+</h5>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dervaag/" title="LinkedIn Profile">
@@ -67,14 +82,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=dervaag&show_icons=true&theme=react&hide_border=true&border_color=61dafb" alt="GitHub Stats" />
+<!-- <p align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=dervaag&show_icons=true&theme=react&hide_border=true&border_color=61dafb" alt="GitHub Stats" /> -->
   <br><br>
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dervaag&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Langs" />
 </p>
-
----
-
-### 🔗 Bonus Markdown Link:
-```markdown
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dervaag&theme=gruvbox-duo)](https://git.io/streak-stats)
