@@ -26,27 +26,38 @@
 </p>
 
 <hr>
-
 <p align="center">⚙️ Languages | Frameworks | Tools 🔩</p>
-
+<br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Laravel" height="25" src="images/laravel.png"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="Prisma" height="25" src="images/prisma.png"></code>
+  <code><img title="Android Studio" height="25" src="images/androidstudio.png"></code>
+  <code><img title="Bootstrap" height="25" src="images/bootstrap.svg"></code>
   <code><img title="Express" height="25" src="images/express.png"></code>
+  <code><img title="Laravel" height="25" src="images/laravel.png"></code>
+  <code><img title="Dart" height="25" src="images/dart.png"></code>
   <code><img title="Flutter" height="25" src="images/flutter.png"></code>
   <code><img title="Tailwind" height="25" src="images/tailwind.png"></code>
+  <code><img title="Kotlin" height="25" src="images/kotlin.png"></code>
 </p>
-
 <hr>
+
 
 <p align="center">📊 GitHub Stats</p>
 
